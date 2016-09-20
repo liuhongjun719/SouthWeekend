@@ -3,9 +3,9 @@
 
 
 ## Screenshot
-![image](https://github.com/liuhongjun719/SouthWeekend/blob/master/screenshots/1.png)
-![image](https://github.com/liuhongjun719/SouthWeekend/blob/master/screenshots/2.png)
-![image](https://github.com/liuhongjun719/SouthWeekend/blob/master/screenshots/3.png)
+![image](https://github.com/liuhongjun719/SouthWeekend/blob/master/screenshot/1.png)
+![image](https://github.com/liuhongjun719/SouthWeekend/blob/master/screenshot/2.png)
+![image](https://github.com/liuhongjun719/SouthWeekend/blob/master/screenshot/3.png)
 
 
 
