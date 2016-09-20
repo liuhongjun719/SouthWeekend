@@ -1,0 +1,25 @@
+{
+  "name": "SouthWeekend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "leancloud-storage": "^1.4.0",
+    "moment": "^2.15.0",
+    "react": "15.3.1",
+    "react-expandable-listview": "^0.5.1",
+    "react-motion": "^0.4.4",
+    "react-native": "0.33.0",
+    "react-native-root-toast": "^1.0.3",
+    "react-native-scrollable-tab-view": "^0.6.0",
+    "react-native-side-menu": "^0.20.0",
+    "react-native-swiper": "^1.4.11",
+    "react-native-vector-icons": "^2.1.0",
+    "react-timer-mixin": "^0.13.3",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0"
+  }
+}

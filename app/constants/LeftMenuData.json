@@ -1,0 +1,172 @@
+
+{"sections":[
+  {
+    "sectionName" : "新闻",
+    "isOpened": false,
+    "image" : "left_news.png",
+    "pressSectionColor" : "black",
+    "id" :1,
+    "items" : [{
+      "title" : "法制",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4715",
+    }, {
+      "title" : "特稿",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4716",
+    }, {
+      "title" : "民生",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4717",
+    },{
+      "title" : "天下",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4719",
+    },{
+      "title" : "防务",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4720",
+    }],
+    "height": 100
+  },
+  {
+    "sectionName" : "经济",
+    "isOpened": false,
+    "image" : "left_economy.png",
+    "pressSectionColor" : "black",
+    "id" :2,
+    "items" : [{
+      "title" : "政经",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4724",
+    }, {
+      "title" : "公司",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4726",
+    }, {
+      "title" : "金融",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4727",
+    },{
+      "title" : "财富",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4728",
+    },{
+      "title" : "健康",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4721",
+    },{
+      "title" : "环境",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4722",
+    },{
+      "title" : "能源",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4723",
+    },{
+      "title" : "麻烦大了",
+      "pressCellColor" : "rgb(182,182,182)",
+      "cat_id": "4725",
+    }],
+    "height": 100
+  },
+  {
+    "sectionName" : "文化",
+    "isOpened": false,
+    "image" : "left_culture.png",
+    "pressSectionColor" : "black",
+    "id" :3,
+    "items" : [{
+      "title" : "文化头条",
+      "pressCellColor" : "rgb(182,182,182)",
+    }, {
+      "title" : "作品上架",
+      "pressCellColor" : "rgb(182,182,182)",
+    }, {
+      "title" : "明星要说话",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "新思维",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "阅读",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "往事",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "科学",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "地理",
+      "pressCellColor" : "rgb(182,182,182)",
+    }],
+    "height": 100
+  },
+  {
+    "sectionName" : "评论",
+    "isOpened": false,
+    "image" : "left_comment.png",
+    "pressSectionColor" : "black",
+    "id" :4,
+    "items" : [{
+      "title" : "方舟",
+      "pressCellColor" : "rgb(182,182,182)",
+    }, {
+      "title" : "茶座",
+      "pressCellColor" : "rgb(182,182,182)",
+    }, {
+      "title" : "第一争议",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "大参考",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "自由谈",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "来信",
+      "pressCellColor" : "rgb(182,182,182)",
+    }],
+    "height": 100
+  },
+  {
+    "sectionName" : "视觉",
+    "isOpened": false,
+    "image" : "left_vision.png",
+    "pressSectionColor" : "black",
+    "id" :5,
+    "items" : [{
+      "title" : "图片",
+      "pressCellColor" : "rgb(182,182,182)",
+    }],
+    "height": 100
+  },
+  {
+    "sectionName" : "生活＋",
+    "isOpened": false,
+    "image" : "left_life.png",
+    "pressSectionColor" : "black",
+    "id" :6,
+    "items" : [{
+      "title" : "南周知道",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "原坐标",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "南瓜学堂",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "24楼影院",
+      "pressCellColor" : "rgb(182,182,182)",
+    },{
+      "title" : "南周俱乐部",
+      "pressCellColor" : "rgb(182,182,182)",
+    }],
+    "height": 100
+  },
+
+
+ ]
+}
